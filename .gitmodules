@@ -3,7 +3,7 @@
 	url = https://github.com/camenduru/simple-knn
 [submodule "submodules/diff-gaussian-rasterization"]
 	path = submodules/diff-gaussian-rasterization
-	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization/tree/9c5c2028f6fbee2be239bc4c9421ff894fe4fbe0
+	url = https://github.com/graphdeco-inria/diff-gaussian-rasterization.git
 	branch = dr_aa
 [submodule "submodules/fused-ssim"]
 	path = submodules/fused-ssim
