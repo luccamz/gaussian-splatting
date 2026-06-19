@@ -9,3 +9,5 @@ screenshots
 Lib/
 Scripts/
 pyvenv.cfg
+*.bak
+*.pyd
